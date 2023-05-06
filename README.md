@@ -6,7 +6,7 @@
 
 Taking badnet and cifar10 dataset as a example.
 ```
-CUDA_VISIBLE_DEVICES=1 python ./attack/badnet_attack.py --yaml_path ../config/attack/badnet/cifar10.yaml --dataset cifar10 --dataset_path ../data --save_folder_name badnet_cifar10
+python ./attack/badnet_attack.py --yaml_path ../config/attack/badnet/cifar10.yaml --dataset cifar10 --dataset_path ../data --save_folder_name badnet_cifar10
 ```
 
 ### Second, use FMT to repair DNN model.
