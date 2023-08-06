@@ -1,4 +1,4 @@
-# FMT: Removing Backdoor Feature Maps via Feature Map Testing in Deep Neural Networks
+# Adversarial Feature Map Pruning for Backdoor
 
 ## How to run FMT for different attack?
 
