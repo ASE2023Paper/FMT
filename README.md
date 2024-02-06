@@ -1,4 +1,6 @@
-# Adversarial Feature Map Pruning for Backdoor
+# ICLR20204-FMP: Adversarial Feature Map Pruning for Backdoor
+
+<a href="https://arxiv.org/abs/2307.11565"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 
 ## How to run FMT for different attack?
 
