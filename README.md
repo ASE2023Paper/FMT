@@ -26,3 +26,17 @@ python ./defense/feature.py  --yaml_path ./config/defense/feature/cifar10.yaml -
 ```
 python ./defense/ft/ft.py --result_file badnet_cifar10 --yaml_path ./config/defense/ft/cifar10.yaml --dataset cifar10
 ```
+
+## Citation
+If you find our work useful in your research, please consider citing:
+````
+@inproceedings{
+Huang2023FMPRB,
+title={FMP: Adversarial Feature Map Pruning for Backdoor},
+author={Dong Huang and Qi Bu and Yahao Qing and Yichao Fu and Heming Cui},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=IOEEDkla96}
+}
+````
+
